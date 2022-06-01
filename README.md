@@ -33,3 +33,17 @@ If you'd like to add your own custom styles:
 3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
 
 ### Edit '/_layouts/homepage.html'
+
+## License
+
+This work is licensed under a Creative Commons Zero v1.0 Universal License.
+
+## Acknowledgements
+
+Our project uses the source code from the following repositories:
+
+[    pages-themes/minimal
+](https://github.com/pages-themes/minimal)
+
+[    orderedlist/minimal
+](https://github.com/orderedlist/minimal)
