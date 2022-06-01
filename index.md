@@ -17,20 +17,20 @@ I am a doctoral research fellow at ........ Institute of Technology, ......
 - **....... University** - B.Tech Mechanical Engineering (2013 - 2017)
 
 ## Experience
-- Designation at Company
+- **Designation | Company**
   <br>
-  Apr 201x--Jul 202x
-- Designation at Company
+   - Apr 201x--Jul 202x
+- **Designation | Company**
   <br>
-  Sep 201x--Feb 201x
+   - Sep 201x--Feb 201x
 
 ## Online Courses
 
-1. **Coursera : .......... **
+- **Coursera | University**
    - Month, Year
-1. **Coursera : .......... **
+- **Coursera | University**
    - Month, Year
-1. **Coursera : .......... **
+- **Coursera | University**
    - Month, Year
    
 ## Publications
