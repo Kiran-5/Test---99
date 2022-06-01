@@ -26,11 +26,11 @@ I am a doctoral research fellow at ........ Institute of Technology, ......
 
 ## Online Courses
 
-- **Coursera | University**
+- **Coursera | Institute**
    - Month, Year
-- **Coursera | University**
+- **Coursera | Institute**
    - Month, Year
-- **Coursera | University**
+- **Coursera | Institute**
    - Month, Year
    
 ## Publications
