@@ -1,4 +1,4 @@
-## Template Credit  : https://github.com/yaoyao-liu/minimal-light
+## Forked From  : https://github.com/yaoyao-liu/minimal-light
 
 ## Using Locally
 
