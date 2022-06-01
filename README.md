@@ -16,7 +16,9 @@ You can get the html files in `_site` folder.
 ## Customizing
 
 Edit '_config.yml'
+
 Edit 'index.md'
+
 Edit '/_layouts/homepage.html'
 
 ## License
