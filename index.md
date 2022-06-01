@@ -25,13 +25,12 @@ I am a doctoral research fellow at ........ Institute of Technology, ......
    - Sep 201x--Feb 201x
 
 ## Online Courses
-
-- **Coursera | Institute**
-   - Month, Year
-- **Coursera | Institute**
-   - Month, Year
-- **Coursera | Institute**
-   - Month, Year
+- **Designation | Company**
+  <br>
+   - Apr 201x--Jul 202x
+- **Designation | Company**
+  <br>
+   - Sep 201x--Feb 201x
    
 ## Publications
 
